@@ -1,5 +1,5 @@
 import './App.css';
-import PageHeader from './components/PageHeader';
+import PageHeader from './components/SectionHeader/PageHeader';
 
 function App() {
   return (
