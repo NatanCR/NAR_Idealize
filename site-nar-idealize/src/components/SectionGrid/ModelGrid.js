@@ -1,3 +1,5 @@
+import PropTypes from 'prop-types'
+
 function ModelGrid({img, title, text}) {
     return (
         <div>
@@ -6,6 +8,12 @@ function ModelGrid({img, title, text}) {
             <p>{text}</p>
         </div>
     )
+}
+
+ModelGrid.propTypes = {
+    img: PropTypes.string,
+    title: PropTypes.string, 
+    text: PropTypes.string,
 }
 
 export default ModelGrid
