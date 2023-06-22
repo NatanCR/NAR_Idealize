@@ -53,7 +53,7 @@
     }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 768px) and (max-width: 834px) {
 
     .textContainer {
         position: relative;
