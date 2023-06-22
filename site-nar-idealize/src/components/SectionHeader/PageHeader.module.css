@@ -1,18 +1,5 @@
-/* .title {
-    color: #fff;
-    text-align: center;
-    font-size: 20px;
-    margin: 0px;
-    padding: 20px;
-}
-
-.headerContainer {
-    background-color: #111111;
-}
-
-.button {
-    text-align: right;
-} */
+/* tablet 834
+cell 480 */
 
 .headerContainer {
     background-color: #111111;
@@ -31,6 +18,42 @@
     margin-left: 250px; /* fica no meio da tela */
   }
   
+  /* responsividade para celular */
+  @media (max-width: 480px) {
+    .headerContainer {
+        background-color: #111111;
+        display: flex;
+        justify-content: center; /* Alteração para centralizar */
+        align-items: center;
+        flex-direction: column; /* Alteração para empilhar verticalmente */
+      }
+    
+      .centeredTitle {
+        color: #fff;
+        text-align: center;
+        font-size: 20px;
+        margin: 0;
+        padding: 30px;
+        margin-left: 0; /* Removendo o margin-left */
+      }
+  }
   
-
-  
+/* responsividade para tablet */
+  @media (min-width: 768px) {
+    .headerContainer {
+        background-color: #111111;
+        display: flex;
+        justify-content: center; /* Alteração para centralizar */
+        align-items: center;
+        
+      }
+    
+      .centeredTitle {
+        color: #fff;
+        text-align: center;
+        font-size: 20px;
+        margin: 0;
+        padding: 30px;
+        margin-left: 250px; /* Removendo o margin-left */
+      }
+  }
