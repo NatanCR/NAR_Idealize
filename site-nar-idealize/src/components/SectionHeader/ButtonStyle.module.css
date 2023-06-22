@@ -1,0 +1,14 @@
+.buttonStyle {
+    margin-right: 3vw; /* Defina o valor de margem desejado */
+    text-align: right;
+    background: none;
+    border: none;
+    background-color: #48773F;
+    padding: 15px 25px;
+    border-radius: 5px;
+    font-size: 24px;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+  }
+
+  

@@ -1,6 +1,13 @@
 /* estilos GLOBAIS  */
 
 body {
-  padding: 50px;
-  background-color: #efefef;
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  font-family: 'Arvo', serif;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
 }
