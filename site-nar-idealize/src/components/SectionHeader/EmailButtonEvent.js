@@ -4,17 +4,13 @@ import styles from './ButtonStyle.module.css'
 function EmailButtonEvent() {
     const recipientEmail = 'natanrodrigues0044@gmail.com';
 
-    const handleButtonClick = () => {
-        window.location.href = `mailto:${recipientEmail}`;
-      };
-
     function sendEmail() {
-        // função que envia o email
+        window.location.href = `mailto:${recipientEmail}`;
     }
 
     return (
         <div>
-            <button className={styles.buttonStyle} onClick={handleButtonClick}>Entre em contato</button>
+            <button className={styles.buttonStyle} onClick={sendEmail}>Entre em contato</button>
         </div>
     )
 }
