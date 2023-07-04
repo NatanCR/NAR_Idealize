@@ -1,0 +1,13 @@
+.carousel-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 400px; /* Defina a altura desejada para o contêiner do carousel */
+  }
+  
+  .carousel-image {
+    height: 100%; /* Ajuste a altura desejada para as imagens */
+    width: auto;
+    object-fit: cover;
+  }
+  

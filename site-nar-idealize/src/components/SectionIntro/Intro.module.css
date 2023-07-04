@@ -2,9 +2,9 @@
 .textContainer {
     position: relative;
     color: #ffffff;
-    background-image: url('../assets/Parede-verde-completa-sombra.jpg');
+    background-image: url('../assets/parede-verde-completa-sombra.jpg');
     width: 100%;
-    height: 620px;
+    height: 700px;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -15,7 +15,6 @@
     position: absolute;
     top: 30%;
     left: 10%;
-    margin: 0;
     text-align: left;
     font-size: 42px;
 }
@@ -57,7 +56,13 @@
 
     .textContainer {
         position: relative;
+        height: 820px;
     }
+
+    .textContainer h1 {
+        top: 35%;
+    }
+
     .textContainer p {
         position: absolute;
         top: 55%;

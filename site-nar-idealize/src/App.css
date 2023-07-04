@@ -2,6 +2,17 @@
   /* text-align: center; */
   margin: 0;
 }
+
+.App {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.carousel-section {
+  flex-grow: 1;
+}
+
 /*
 .App-logo {
   height: 40vmin;
