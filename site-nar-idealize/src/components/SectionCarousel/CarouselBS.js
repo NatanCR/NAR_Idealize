@@ -21,112 +21,112 @@ import image15 from '../assets/vasos-transformacao.jpg';
 
 function CarouselBS() {
     return (
-      <div style={{ display: 'block', width: '700', padding: 30}}>
-        <h4>React-Bootstrap Carousel Component</h4>
+      <div className="carousel-container" style={{ display: 'block', width: '700' }}>
+        <h1>Ultimos trabalhos</h1>
         <Carousel fade pause="hover">
           <Carousel.Item interval={1500}>
             <img
             className="d-block w-100"
               src={image1}
-              alt="Image One"
+              alt="Image"
             />
           </Carousel.Item>
           <Carousel.Item interval={1500}>
             <img
             className="d-block w-100"
               src={image2}
-              alt="Image Two"
+              alt="Image"
             />
           </Carousel.Item>
           <Carousel.Item interval={1500}>
             <img
             className="d-block w-100"
               src={image3}
-              alt="Image Three"
+              alt="Image"
             />
           </Carousel.Item>
           <Carousel.Item interval={1500}>
             <img
             className="d-block w-100"
               src={image4}
-              alt="Image four"
+              alt="Image"
             />
           </Carousel.Item>
           <Carousel.Item interval={1500}>
             <img
             className="d-block w-100"
               src={image5}
-              alt="Image five"
+              alt="Image"
             />
           </Carousel.Item>
           <Carousel.Item interval={1500}>
             <img
             className="d-block w-100"
               src={image6}
-              alt="Image five"
+              alt="Image"
             />
           </Carousel.Item>
           <Carousel.Item interval={1500}>
             <img
             className="d-block w-100"
               src={image7}
-              alt="Image five"
+              alt="Image"
             />
           </Carousel.Item>
           <Carousel.Item interval={1500}>
             <img
             className="d-block w-100"
               src={image8}
-              alt="Image five"
+              alt="Image"
             />
           </Carousel.Item>
           <Carousel.Item interval={1500}>
             <img
             className="d-block w-100"
               src={image9}
-              alt="Image five"
+              alt="Image"
             />
           </Carousel.Item>
           <Carousel.Item interval={1500}>
             <img
             className="d-block w-100"
               src={image10}
-              alt="Image five"
+              alt="Image"
             />
           </Carousel.Item>
           <Carousel.Item interval={1500}>
             <img
             className="d-block w-100"
               src={image11}
-              alt="Image five"
+              alt="Image"
             />
           </Carousel.Item>
           <Carousel.Item interval={1500}>
             <img
             className="d-block w-100"
               src={image12}
-              alt="Image five"
+              alt="Image"
             />
           </Carousel.Item>
           <Carousel.Item interval={1500}>
             <img
             className="d-block w-100"
               src={image13}
-              alt="Image five"
+              alt="Image"
             />
           </Carousel.Item>
           <Carousel.Item interval={1500}>
             <img
             className="d-block w-100"
               src={image14}
-              alt="Image five"
+              alt="Image"
             />
           </Carousel.Item>
           <Carousel.Item interval={1500}>
             <img
             className="d-block w-100"
               src={image15}
-              alt="Image five"
+              alt="Image"
             />
           </Carousel.Item>
         </Carousel>

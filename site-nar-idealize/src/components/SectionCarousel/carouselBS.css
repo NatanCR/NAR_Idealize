@@ -1,13 +1,34 @@
 .carousel-container {
+    background-color: #333333;
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 400px; /* Defina a altura desejada para o contêiner do carousel */
+    padding: 15px;
   }
-  
-  .carousel-image {
-    height: 100%; /* Ajuste a altura desejada para as imagens */
-    width: auto;
-    object-fit: cover;
+
+  .carousel-container img {
+    height: 700px;
+    border-radius: 8px;
   }
-  
+
+  .carousel-container h1 {
+    color: white;
+    text-align: center;
+    font-size: 46px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  @media (max-width: 480px) { 
+    .carousel-container img {
+      height: 300px;
+    }
+
+    .carousel-container h1 {
+      font-size: 36px;
+    }
+  }
+
+  @media (min-width: 768px) and (max-width: 834px) {
+
+  }
