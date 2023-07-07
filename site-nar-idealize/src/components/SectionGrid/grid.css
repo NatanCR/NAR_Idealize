@@ -1,0 +1,21 @@
+.gridContainer {
+    align-items: center;
+    justify-content: center;
+}
+
+.gridContainer img {
+    height: 260px;
+    width: 350px;
+}
+
+.gridContainer h2, p {
+    color: white;
+    padding-top: 10px;
+}
+
+@media (min-width: 768px) and (max-width: 834px) {
+    .gridContainer img {
+        height: 200px;
+        width: 300px;
+    }
+}

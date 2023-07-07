@@ -1,8 +1,9 @@
 import PropTypes from 'prop-types'
+import './grid.css';
 
-function ModelGrid({img, title, text}) {
+function ModelGrid({ img, title, text }) {
     return (
-        <div>
+        <div className="gridContainer">
             <img src={img} alt={title}/>
             <h2>{title}</h2>
             <p>{text}</p>

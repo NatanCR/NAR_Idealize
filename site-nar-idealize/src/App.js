@@ -2,6 +2,7 @@ import './App.css';
 import PageHeader from './components/SectionHeader/PageHeader';
 import Intro from './components/SectionIntro/Intro';
 import CarouselBS from './components/SectionCarousel/CarouselBS';
+import ServicesGrid from './components/SectionGrid/ServicesGrid';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <PageHeader/>
       <Intro/>
       <CarouselBS/>
+      <ServicesGrid/>
     </div>
   );
 }
