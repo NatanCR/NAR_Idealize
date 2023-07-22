@@ -1,0 +1,8 @@
+.container {
+    background-color: #333333;
+}
+
+.container h1, p {
+    color: white;
+}
+
