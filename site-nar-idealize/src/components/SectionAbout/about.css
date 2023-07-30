@@ -1,0 +1,8 @@
+.full-container {
+    background: #333333;
+    width: 100vw;
+}
+
+.container.text-left h1 {
+    text-align: left;
+}

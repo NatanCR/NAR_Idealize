@@ -7,7 +7,6 @@
 .container {
     padding-top: 60px;
     padding-bottom: 60px;
-    background: #48773F;
 }
 
 .container h1 {
@@ -15,4 +14,8 @@
     color: white;
     font-size: 46px;
     padding-bottom: 20px;
+}
+
+.container.text-center{
+    background: #48773F;
 }

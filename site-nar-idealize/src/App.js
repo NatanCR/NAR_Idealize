@@ -12,6 +12,10 @@ function App() {
       <Intro/>
       <CarouselBS/>
       <ServicesGrid/>
+      <div>
+      <About/>
+      </div>
+     
     </div>
   );
 }
