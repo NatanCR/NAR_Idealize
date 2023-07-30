@@ -7,6 +7,7 @@
 .gridContainer img {
     height: 260px;
     width: 350px;
+    border-radius: 3px;
 }
 
 .gridContainer h2, p {

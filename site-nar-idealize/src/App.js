@@ -4,6 +4,7 @@ import Intro from './components/SectionIntro/Intro';
 import CarouselBS from './components/SectionCarousel/CarouselBS';
 import ServicesGrid from './components/SectionGrid/ServicesGrid';
 import About from './components/SectionAbout/About';
+import FooterInfo from './components/SectionFooter/FooterInfo';
 
 function App() {
   return (
@@ -12,10 +13,8 @@ function App() {
       <Intro/>
       <CarouselBS/>
       <ServicesGrid/>
-      <div>
       <About/>
-      </div>
-     
+      <FooterInfo/>
     </div>
   );
 }

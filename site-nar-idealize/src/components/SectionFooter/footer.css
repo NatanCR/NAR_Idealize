@@ -1,0 +1,17 @@
+.footer-container {
+    background: #E9F7F2;
+}
+
+.contacts-right {
+    text-align: right;
+  }
+
+.contacts-right p {
+    color: black;
+    margin-bottom: 1px;
+}
+
+.footer-container img {
+    width: 100px;
+    height: auto;
+}
