@@ -1,17 +1,30 @@
+
+
 .footer-container {
     background: #E9F7F2;
 }
 
 .contacts-right {
     text-align: right;
-  }
+}
 
 .contacts-right p {
     color: black;
     margin-bottom: 1px;
 }
 
+.logo-container {
+    flex-shrink: 0;
+    margin-right: 20px;
+}
+
 .footer-container img {
-    width: 100px;
+    max-width: 100px;
     height: auto;
+}
+
+@media (max-width: 480px) {
+    .contacts-right {
+        text-align: left;
+    }
 }

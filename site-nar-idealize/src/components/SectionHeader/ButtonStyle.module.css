@@ -18,7 +18,7 @@
     }
   }
 
-  @media (max-width: 834px) {
+  @media (min-width: 768px) and (max-width: 834px) {
     .buttonStyle {
       padding: 8px 16px;
       font-size: 20px;

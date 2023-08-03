@@ -2,21 +2,21 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.css';
 import Carousel from 'react-bootstrap/Carousel';
 import './carouselBS.css';
-import image1 from '../assets/painel-top-montagem.jpg';
-import image2 from '../assets/painel-top-montagem-2.jpg';
-import image3 from '../assets/painel-top.jpg';
-import image4 from '../assets/jardim-suspenso.jpg';
-import image5 from '../assets/jardim-suspenso-esquerda.jpg';
-import image6 from '../assets/jardim-suspenso-geral.jpg';
-import image7 from '../assets/jardim-suspenso-meio.jpg';
-import image8 from '../assets/painel-verde-montagem.jpg';
-import image9 from '../assets/painel-verde-grande.jpg';
-import image10 from '../assets/painel-verde-pequeno-2.jpg';
-import image11 from '../assets/painel-verde-pequeno-3.jpg';
-import image12 from '../assets/painel-verde.jpg';
-import image13 from '../assets/vasos-suspenso.jpg';
-import image14 from '../assets/vasos-suspenso-2.jpg';
-import image15 from '../assets/vasos-transformacao.jpg';
+import img1 from '../assets/painel-top-montagem.jpg';
+import img2 from '../assets/painel-top-montagem-2.jpg';
+import img3 from '../assets/painel-top.jpg';
+import img4 from '../assets/jardim-suspenso.jpg';
+import img5 from '../assets/jardim-suspenso-esquerda.jpg';
+import img6 from '../assets/jardim-suspenso-geral.jpg';
+import img7 from '../assets/jardim-suspenso-meio.jpg';
+import img8 from '../assets/painel-verde-montagem.jpg';
+import img9 from '../assets/painel-verde-grande.jpg';
+import img10 from '../assets/painel-verde-pequeno-2.jpg';
+import img11 from '../assets/painel-verde-pequeno-3.jpg';
+import img12 from '../assets/painel-verde.jpg';
+import img13 from '../assets/vasos-suspenso.jpg';
+import img14 from '../assets/vasos-suspenso-2.jpg';
+import img15 from '../assets/vasos-transformacao.jpg';
 
 
 function CarouselBS() {
@@ -27,105 +27,105 @@ function CarouselBS() {
           <Carousel.Item interval={1500}>
             <img
             className="d-block w-100"
-              src={image1}
+              src={img1}
               alt="Image"
             />
           </Carousel.Item>
           <Carousel.Item interval={1500}>
             <img
             className="d-block w-100"
-              src={image2}
+              src={img2}
               alt="Image"
             />
           </Carousel.Item>
           <Carousel.Item interval={1500}>
             <img
             className="d-block w-100"
-              src={image3}
+              src={img3}
               alt="Image"
             />
           </Carousel.Item>
           <Carousel.Item interval={1500}>
             <img
             className="d-block w-100"
-              src={image4}
+              src={img4}
               alt="Image"
             />
           </Carousel.Item>
           <Carousel.Item interval={1500}>
             <img
             className="d-block w-100"
-              src={image5}
+              src={img5}
               alt="Image"
             />
           </Carousel.Item>
           <Carousel.Item interval={1500}>
             <img
             className="d-block w-100"
-              src={image6}
+              src={img6}
               alt="Image"
             />
           </Carousel.Item>
           <Carousel.Item interval={1500}>
             <img
             className="d-block w-100"
-              src={image7}
+              src={img7}
               alt="Image"
             />
           </Carousel.Item>
           <Carousel.Item interval={1500}>
             <img
             className="d-block w-100"
-              src={image8}
+              src={img8}
               alt="Image"
             />
           </Carousel.Item>
           <Carousel.Item interval={1500}>
             <img
             className="d-block w-100"
-              src={image9}
+              src={img9}
               alt="Image"
             />
           </Carousel.Item>
           <Carousel.Item interval={1500}>
             <img
             className="d-block w-100"
-              src={image10}
+              src={img10}
               alt="Image"
             />
           </Carousel.Item>
           <Carousel.Item interval={1500}>
             <img
             className="d-block w-100"
-              src={image11}
+              src={img11}
               alt="Image"
             />
           </Carousel.Item>
           <Carousel.Item interval={1500}>
             <img
             className="d-block w-100"
-              src={image12}
+              src={img12}
               alt="Image"
             />
           </Carousel.Item>
           <Carousel.Item interval={1500}>
             <img
             className="d-block w-100"
-              src={image13}
+              src={img13}
               alt="Image"
             />
           </Carousel.Item>
           <Carousel.Item interval={1500}>
             <img
             className="d-block w-100"
-              src={image14}
+              src={img14}
               alt="Image"
             />
           </Carousel.Item>
           <Carousel.Item interval={1500}>
             <img
             className="d-block w-100"
-              src={image15}
+              src={img15}
               alt="Image"
             />
           </Carousel.Item>
