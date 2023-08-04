@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "./static/css/main.52b5a77e.css",
+    "main.js": "./static/js/main.5a3f9ca9.js",
+    "static/js/787.9f2d8fa4.chunk.js": "./static/js/787.9f2d8fa4.chunk.js",
+    "static/media/jardim-suspenso.jpg": "./static/media/jardim-suspenso.7814caf330191df1876e.jpg",
+    "static/media/painel-top.jpg": "./static/media/painel-top.f94e1bb094c9f5a47886.jpg",
+    "static/media/painel-verde-grande.jpg": "./static/media/painel-verde-grande.3d79abfc3e273042ac49.jpg",
+    "static/media/vasos-suspenso-2.jpg": "./static/media/vasos-suspenso-2.9c6958183510a73f8a22.jpg",
+    "static/media/jardim-suspenso-meio.jpg": "./static/media/jardim-suspenso-meio.084d5fac529a5214a80a.jpg",
+    "static/media/vasos-transformacao.jpg": "./static/media/vasos-transformacao.aa9cbf809740dfef1ae9.jpg",
+    "static/media/painel-verde-pequeno-3.jpg": "./static/media/painel-verde-pequeno-3.fda3231e78471b8b7829.jpg",
+    "static/media/jardim-suspenso-geral.jpg": "./static/media/jardim-suspenso-geral.dfb732eb497cd885067b.jpg",
+    "static/media/painel-verde-montagem.jpg": "./static/media/painel-verde-montagem.a8d5ccfb9935dd036d07.jpg",
+    "static/media/jardim-suspenso-esquerda.jpg": "./static/media/jardim-suspenso-esquerda.ad9dd55d246e54ca3eac.jpg",
+    "static/media/vasos-suspenso.jpg": "./static/media/vasos-suspenso.c5ad2895e99bde99c24f.jpg",
+    "static/media/painel-verde.jpg": "./static/media/painel-verde.624323732f7ffcd65d67.jpg",
+    "static/media/painel-top-montagem.jpg": "./static/media/painel-top-montagem.4b4fa083de592bb93b5a.jpg",
+    "static/media/painel-top-montagem-2.jpg": "./static/media/painel-top-montagem-2.0c3c9aa8c41da8fd6144.jpg",
+    "static/media/parede-verde-completa-sombra.jpg": "./static/media/parede-verde-completa-sombra.7063af232640eba74948.jpg",
+    "static/media/painel-verde-pequeno-2.jpg": "./static/media/painel-verde-pequeno-2.1ba32013ac5cda918f2a.jpg",
+    "static/media/logoB&P.png": "./static/media/logoB&P.7ade220dcfa05d9c73a4.png",
+    "index.html": "./index.html",
+    "main.52b5a77e.css.map": "./static/css/main.52b5a77e.css.map",
+    "main.5a3f9ca9.js.map": "./static/js/main.5a3f9ca9.js.map",
+    "787.9f2d8fa4.chunk.js.map": "./static/js/787.9f2d8fa4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52b5a77e.css",
+    "static/js/main.5a3f9ca9.js"
+  ]
+}
