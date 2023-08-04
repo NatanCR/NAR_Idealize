@@ -9,7 +9,7 @@ import img4 from '../assets/jardim-suspenso.jpg';
 import img5 from '../assets/jardim-suspenso-esquerda.jpg';
 import img6 from '../assets/jardim-suspenso-geral.jpg';
 import img7 from '../assets/jardim-suspenso-meio.jpg';
-import img8 from '../assets/painel-verde-montagem.jpg';
+import img8 from '../assets/.jpg';
 import img9 from '../assets/painel-verde-grande.jpg';
 import img10 from '../assets/painel-verde-pequeno-2.jpg';
 import img11 from '../assets/painel-verde-pequeno-3.jpg';
