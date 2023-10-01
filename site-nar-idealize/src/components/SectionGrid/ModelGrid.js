@@ -1,14 +1,29 @@
 import PropTypes from 'prop-types'
 import './grid.css';
+import React, { useState } from 'react';
 
-function ModelGrid({ img, title, text }) {
-    return (
-        <div className="gridContainer">
-            <img src={img} alt={title}/>
-            <h2>{title}</h2>
-            <p>{text}</p>
-        </div>
-    )
+function ModelGrid({ imgNormal, imgHover, title, text }) {
+    const [isHovered, setIsHovered] = useState(false);
+
+    const handleMouseEnter = () => {
+        setIsHovered(true);
+    };
+
+    const handleMouseLeave = () => {
+        setIsHovered(false);
+    };
+
+  return (
+    <div
+      className="gridContainer"
+      onMouseEnter={handleMouseEnter}
+      onMouseLeave={handleMouseLeave}
+    >
+      <img src={isHovered ? imgHover : imgNormal} alt={title} />
+      <h2>{title}</h2>
+      <p>{text}</p>
+    </div>
+  );
 }
 
 ModelGrid.propTypes = {
