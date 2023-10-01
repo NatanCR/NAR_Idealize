@@ -2,7 +2,7 @@ import React from 'react';
 import styles from './ButtonStyle.module.css'
 
 function EmailButtonEvent() {
-    const recipientEmail = 'natanrodrigues0044@gmail.com';
+    const recipientEmail = 'naridealize@gmail.com';
 
     function sendEmail() {
         window.location.href = `mailto:${recipientEmail}`;

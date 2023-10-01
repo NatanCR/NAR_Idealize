@@ -1,7 +1,7 @@
 import ImageGrid from "./ModelGrid"
-import image3 from '../assets/painel-top.jpg';
-import image5 from '../assets/jardim-suspenso-esquerda.jpg';
-import image15 from '../assets/vasos-transformacao.jpg';
+import image3 from '../assets/painel-close.jpg';
+import image5 from '../assets/jardim-suspenso-esquerdo.jpg';
+import image15 from '../assets/vaso-pequeno-luzes-grid.jpg';
 import './serviceGrid.css';
 
 function ServicesGrid(){

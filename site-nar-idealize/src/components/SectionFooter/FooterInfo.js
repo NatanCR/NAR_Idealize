@@ -38,7 +38,7 @@ function FooterInfo() {
                   <h2>Contatos</h2>
                   <a href={`mailto:${email}`}>{email}</a>
                   <p className="first-number">(11) 95275-0824</p>
-                  <p>(11) 95135-2040</p>
+                  
               </div>
           </div>
       </div>
