@@ -15,7 +15,7 @@ function ModelGrid({ imgNormal, imgHover, title, text }) {
 
   return (
     <div
-      className="gridContainer"
+      className={`gridContainer ${isHovered ? 'image-grid' : ''}`}
       onMouseEnter={handleMouseEnter}
       onMouseLeave={handleMouseLeave}
     >

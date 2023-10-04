@@ -21,3 +21,11 @@
         width: 300px;
     }
 }
+
+.image-grid {
+  transition: transform 0.3s ease; /* Adicione uma transição suave de 0,3 segundos para a propriedade 'transform' */
+}
+
+.image-grid:hover {
+  transform: scale(1.1); /* Aumenta a escala da imagem em 10% quando o mouse passa por cima */
+}

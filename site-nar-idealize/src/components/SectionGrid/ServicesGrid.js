@@ -4,7 +4,7 @@ import image5Normal from '../assets/jardim-suspenso-esquerdo.jpg';
 import image15Normal from '../assets/vaso-pequeno-luzes-grid.jpg';
 import image3Hover from '../assets/painel-verde-OR.jpg';
 import image5Hover from '../assets/jardim-pendurado.jpg';
-import image15Hover from '../assets/vaso-suspenso2.jpg';
+import image15Hover from '../assets/vaso-pequeno.jpg';
 import './serviceGrid.css';
 
 function ServicesGrid(){
