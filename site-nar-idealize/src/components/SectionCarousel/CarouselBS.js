@@ -22,7 +22,7 @@ import img15 from '../assets/vasos-transformacao.jpg';
 function CarouselBS() {
     return (
       <div className="carousel-container" style={{ display: 'block', width: '700' }}>
-        <h1>Ultimos trabalhos</h1>
+        <h1>Trabalhos realizados</h1>
         <Carousel fade pause="hover">
           <Carousel.Item interval={1500}>
             <img
