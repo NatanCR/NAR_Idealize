@@ -14,13 +14,13 @@ function ServicesGrid(){
                 <h1>Serviços</h1>
                 <div className="row justify-content-center">
                     <div class="col-md">
-                    <ImageGrid imgNormal={image3Normal} imgHover={image3Hover} title="Parede Verde Natural" text="Priorizamos o verde natural trazendo um efeito impactante para o seu projeto paisagístico."/>
+                    <ImageGrid imgNormal={image3Normal} imgHover={image3Hover} title="Parede Verde Natural" text="Priorizamos o verde natural trazendo um efeito impactante para o seu projeto."/>
                     </div>
                     <div class="col-md">
                     <ImageGrid imgNormal={image5Normal} imgHover={image5Hover} title="Jardins Pendentes" text="Montamos o jardim que agrega e combina com o propósito do projeto, satisfazendo as expectativas e transformando o ambiente."/>
                     </div>
                     <div class="col-md">
-                    <ImageGrid imgNormal={image15Normal} imgHover={image15Hover} title="Vasos" text="Fazemos a decoração com vasos que agregam sentido e valor à ideia que o ambiente está transmitindo."/>
+                    <ImageGrid imgNormal={image15Normal} imgHover={image15Hover} title="Vasos e Arranjos" text="Decoração com vasos que agregam sentido e valor à ideia que o ambiente está transmitindo."/>
                     </div>
                 </div>
             </div>
