@@ -1,6 +1,6 @@
 # NAR_Idealize
-Site destinado a expor o trabalho realizado pela empresa NAR Idealize.
+Website designed to showcase the work carried out by NAR Idealize.
 
-NAR Idealize é uma empresa de paisagísmo, que busca proporcionar para eventos e ambientes corporativos uma experiência ecológica e sustentável. Transformar ambientes é sua especialidade, trazendo um tom natural para o meio articial.
+NAR Idealize is a landscaping company that seeks to provide events and corporate environments with an ecological and sustainable experience. Transforming environments is its specialty, bringing a natural tone to an artificial environment.
 
-O site foi desenvolvido em React Js.
+The site was developed in React Js.
